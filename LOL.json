@@ -8,5 +8,10 @@
         "device_id": "8fec8c579f105df99097cf92d628ecfaaae3f6ede29567c8d46db17f2c779dfa",
         "expirydate": "15-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "be3a681c791b05eb8361e342876173b05f1214687c7791f4e300d1c05d68c518",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
     }
 ]
