@@ -20,8 +20,18 @@
         "Allowoffline": false
     },
     {
-        "device_id": "PROID-8FEC8C579F",
-        "expirydate": "15-12-2026",
+        "device_id": "PROID-",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "PROID-",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "PROID-",
+        "expirydate": "25-12-2026",
         "Allowoffline": false
     }
 ]
